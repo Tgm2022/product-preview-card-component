@@ -1,0 +1,54 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,700;1,500&display=swap');
+
+
+
+/* Start reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    img{
+        max-width: 100%;
+    }
+    a{
+        text-decoration:none;
+    }
+    /* ul{
+        list-style: none;
+    }
+} */
+
+/* End-Reset */
+/* Globle */
+:root{
+--Very-dark-blue: hsl(212, 21%, 14%);
+--Dark-grayish-blue: hsl(228, 12%, 48%);
+--White: hsl(0, 0%, 100%);
+}
+body{
+ background-color: var(--Very-dark-blue);
+ text-align: center;
+ font-size: 11px;
+ font-family:'Montserrat';
+ /* box-model */
+ min-height: 100vh;
+ padding: ;
+ margin: ;
+ position: ;
+ width: ;
+ 
+
+}
+
+/* end globle */
+/* main */
+/* end main */
+.product{
+    display:flex;
+}
+/* media query */
+/* end- media query  */
